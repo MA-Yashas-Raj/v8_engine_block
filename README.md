@@ -1,6 +1,6 @@
 # V8 Engine Block – CAD Modeling Project
 
-![V8 Engine Block](Images/engine-block.png)
+![V8 Engine Block](engineblockv8.png)
 
 ## Overview
 
